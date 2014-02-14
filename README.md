@@ -8,3 +8,5 @@ You could probably also run this as root, but I wouldn't suggest it.
 Paste this into your terminal:
 
     wget -O - https://github.com/quasarj/auto-yaourt/raw/master/auto-yaourt.sh | sh
+
+
